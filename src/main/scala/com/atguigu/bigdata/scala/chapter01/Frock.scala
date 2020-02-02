@@ -8,10 +8,7 @@ package com.atguigu.bigdata.scala.chapter01
 
 object Frock {
   def main(args: Array[String]): Unit = {
-    println("****")
-    println("****")
-    println("****")
-    println("****")
+    println()
   }
   private var currentNum : Int = 10000
 
